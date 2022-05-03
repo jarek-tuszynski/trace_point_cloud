@@ -2,6 +2,7 @@
 # Trace skeletonization result into polylines
 #
 # Lingdong Huang 2020
+# Source: https://github.com/LingDong-/skeleton-tracing
 
 import numpy as np
 
